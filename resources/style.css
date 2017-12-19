@@ -1,7 +1,15 @@
+.banner {
+  background-image: url("Brazil_flag_1.jpg");
+  background-size: 1200px 800px;
+}
 h1 {
-  font-family: Helvetica;
+  font-family: Georgia;
   text-align: center;
   color: white;
-  background-image: url("Brazil_flag_1.jpg");
-  background-color: green;
+}
+h2 {
+  font-family: Georgia;
+  text-align: center;
+  color: white;
+  font-style: italic;
 }
